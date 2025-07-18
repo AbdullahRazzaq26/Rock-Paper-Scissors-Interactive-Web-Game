@@ -1,27 +1,31 @@
-🎮 Rock Paper Scissors — Dark Neon Edition ⚡🪨📄✂️
-A fast and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
+# 🎮 Rock Paper Scissors — Dark Neon Edition ⚡🪨📄✂️  
+A fast and interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript**.
 
-Includes:
+---
 
-🌐 GitHub: https://abdullahrazzaq26.github.io/Rock-Paper-Scissors-Interactive-Web-Game/
-🚀 Netlify: https://rock-paper-scissors-interactive-gamee.netlify.app/
+## 🌐 Live Links  
+- 🔗 **GitHub Pages**: [Play on GitHub](https://abdullahrazzaq26.github.io/Rock-Paper-Scissors-Interactive-Web-Game/)  
+- 🚀 **Netlify Deployment**: [Play on Netlify](https://rock-paper-scissors-interactive-gamee.netlify.app/)
 
-✅ Features:
-Responsive layout with large clickable buttons for all devices 📱
+---
 
-Dark theme with neon-inspired visual effects 🌌
+## ✅ Features
 
-Animated message box that pops with each result 💬✨
+- 📱 **Responsive layout** with large, clickable buttons for all devices  
+- 🌌 **Dark theme** with neon-inspired visual effects  
+- 💬✨ **Animated message box** that pops with each result  
+- 📈 **Unique visual effect** when the score increases  
+- 🔁 **Restart button** to reset the game anytime  
+- 💡 **Clean, modular code** perfect for beginners and learners
 
-Unique visual effect when the score increases 📈
+---
 
-Restart button to reset the game at any point 🔁
+## 🔧 Tech Stack
 
-Clean, modular code perfect for beginners and learners 💡
+- **HTML5**
+- **CSS3**  
+  - Dark Theme  
+  - Animations & Font Styling  
+- **Vanilla JavaScript**
 
-🔧 Tech Stack:
-HTML5
-
-CSS3 (Dark Theme + Animations + Font Styling)
-
-Vanilla JavaScript
+---
